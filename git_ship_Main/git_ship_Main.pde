@@ -27,10 +27,10 @@ color black = color(0);
 color holo = color(255, 255, 0); //use 0, 255, 255 for copilot's training ground
 
 //slider values: 0, 10 values set in code
-float slider1 = 0;
-float slider2 = 4;
-float slider3 = 7;
-float slider4 = 6;
+float slider1 = 4;
+float slider2 = 7;
+float slider3 = 6;
+float slider4 = 9;
 //map location: 0 to 10 in x & y, set in code
 float x = 4;
 float y = 3;
